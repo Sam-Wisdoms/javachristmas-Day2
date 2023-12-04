@@ -1,0 +1,23 @@
+body{
+    margin: 400px;
+    padding: 40px;
+    background-color: lightblue;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid rgb(234, 38, 38),
+    /* height: 50px; */
+    width: 70px;
+    
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    background-color: violet;
+    width: 200px;
+    padding: 15px;
+}
